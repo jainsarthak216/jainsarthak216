@@ -1,8 +1,8 @@
 # 🚀 Sarthak Jain | Full-Stack Engineer  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sarthak9123&color=blueviolet&style=flat)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarthak%20Jain-blue?logo=linkedin)](https://www.linkedin.com/in/sarthak-jain-181980167)  
-![Email](https://img.shields.io/badge/Email-SarthakJain01%40gmail.com-red?logo=gmail)](mailto:jainsarthak216@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarthak%20Jain-blue?logo=linkedin)](https://www.linkedin.com/in/sarthak-jain-181980167)  
+[![Email](https://img.shields.io/badge/Email-SarthakJain01%40gmail.com-red?logo=gmail)](mailto:jainsarthak216@gmail.com)  
 
 👋 Hey there! I'm **Sarthak Jain**, a **Full-Stack Engineer** specializing in **scalable and distributed systems**. I love working on backend optimizations, frontend performance, and system design challenges.  
 
